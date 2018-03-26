@@ -42,7 +42,7 @@ As a userI should be able to track the number of Applicants versus the number of
 - YTD Living Wage 
 
 
-##Communications and Development Functionalities
+## Communications and Development Functionalities
 As a user, I should be able to see the current list of volunteers availabnle 
 I should be able top filter voluntters based on interests answered in their application 
 I should be able to communicate with vounteers about opportunities via Mailchimp API 
