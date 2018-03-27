@@ -18,6 +18,11 @@
 
 - As a user, I should be able to generate data visualizations for the same reason.  
 
+- As an administrator, I should be able to create new Users
+
+- As a user, I should be able to create custom fields to attach to records(participants/partners) 
+
+
 ## CAP Functionalities
 - As a user, I should be able to view applicants on the dashboard (CAP APP API) 
 - As a user, I should be able to track the referrals i give to participants 
@@ -70,8 +75,28 @@ as a user, I should be able to track whether or not employment verifications hav
 - I should be able to automatically notify volunteers with similar categories of interests.
 
 
-
 ## Communications and Development Dashboard 
 
+ - Donations YTD 
+ - Prospective Grants - Number and Amount of $$$
+ - Awarded Grants - Number and Amount of $$$
+ - In Progress Grants - Number and Amnount of $$$
 
+## Enrollment Benefits Functionalities 
 
+- As a user, I should be able to create new enrollees 
+
+- As a user, I should be able to edit enrollees, in order to update information
+
+- As a user, I should be able to generate reports in excel spreadsheet format 
+
+- As a user, I should be able to generate detailed reports that include sensitve data in order to do grant reporting 
+
+- 
+
+## Enrollment Benefits Dashboards 
+
+- YTD Enrollees Screened 
+- YTD Enrollment Applications Completed 
+- YTD Appications Accepted 
+- YTD Applications Denied 
