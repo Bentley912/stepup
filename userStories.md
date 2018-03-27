@@ -4,7 +4,7 @@
 
 - Users should be able to view General Step Up dashboard in order to see the status of the whole organization
 
-- - As user, I should be able to view Dashboards for CAP Program, Advancement, and Benefits Enrollment 	
+- As user, I should be able to view Dashboards for CAP Program, Advancement, and Benefits Enrollment 	
 
 - As user, I should be able to create New Participants, Partners, Volunteers, Donors, and Applicants 
 
@@ -100,3 +100,11 @@ as a user, I should be able to track whether or not employment verifications hav
 - YTD Enrollment Applications Completed 
 - YTD Appications Accepted 
 - YTD Applications Denied 
+
+## Main functions 
+
+- APPLICATIONS (CAP, BENEFITS ENROLLMENT, VOLUNTEERS )
+- DATA MGMT/EDITING 
+- DASHBOARDS 
+- REPORTING 
+- DATA VISUALIZATIONS 
